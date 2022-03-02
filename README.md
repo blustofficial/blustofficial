@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**BLust0/BLust0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Just another web developer
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+  
+Гитхаб первокурсника-программиста. Проекты, заметки и университетская программа.  
+Пишу бэкенд на C#, в планах подружиться с Golang и JavaScript. В качестве инструментов для разработки использую VSCode, с недавнего времени - Rider и Datagrip (большое спасибо платформе Stepik за трехмесячную лицензию на все продукты JetBrains :heart:)  
+## Github stats
+![](https://komarev.com/ghpvc/?username=BLust0&color=grey)  
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BLust0&theme=dark)  
+![](https://github-readme-stats.vercel.app/api?username=BLust0&theme=dark)
