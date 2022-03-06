@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
   
 Гитхаб первокурсника-программиста. Проекты, заметки и университетская программа.  
-Пишу бэкенд на C#, в планах подружиться с Golang и JavaScript. В качестве инструментов для разработки использую Visual Studio Code, с недавнего времени - Rider и Datagrip (большое спасибо платформе Stepik за трехмесячную лицензию на все продукты JetBrains :heart:)  
+Пишу бэкенд на C#, в планах подружиться с Golang и JavaScript. В качестве инструментов для разработки использую Visual Studio (Community/Code), с недавнего времени - Rider и Datagrip (большое спасибо платформе Stepik за трехмесячную лицензию на все продукты JetBrains :heart:)  
 ## Github stats
 ![](https://komarev.com/ghpvc/?username=BLust0&color=grey)  
   
