@@ -6,7 +6,7 @@
 Гитхаб первокурсника-программиста. Проекты, заметки и университетская программа.  
 Пишу бэкенд на C#, в планах подружиться с Golang и JavaScript. В качестве инструментов для разработки использую Visual Studio (Community/Code), с недавнего времени - Rider и Datagrip (большое спасибо платформе Stepik за трехмесячную лицензию на все продукты JetBrains :heart:)  
 ## Github stats
-![](https://komarev.com/ghpvc/?username=BLust0&color=grey)  
+![](https://komarev.com/ghpvc/?username=blustwastaken&color=grey)  
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BLust0&theme=dark)  
-![](https://github-readme-stats.vercel.app/api?username=BLust0&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blustwastaken&theme=dark)  
+![](https://github-readme-stats.vercel.app/api?username=blustwastaken&theme=dark)
